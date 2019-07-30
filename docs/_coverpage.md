@@ -1,4 +1,3 @@
-```
 <img width="180px" style="border-radius: 50%" bor src="https://nodejsred.oss-cn-shanghai.aliyuncs.com/nodejs_roadmap-logo.jpeg?x-oss-process=style/may">
 
 # Node.js技术栈指南
@@ -8,5 +7,9 @@
 [![stars](https://badgen.net/github/stars/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap) [![forks](https://badgen.net/github/forks/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap)
 
 [GitHub](<https://github.com/Q-Angelo/Nodejs-Roadmap>)
-[开始阅读](RADME.md)
-```
+[开始阅读](README.md)
+
+作者：五月君
+链接：http://www.imooc.com/article/287154
+来源：慕课网
+本文首次发布于慕课网 ，转载请注明出处，谢谢合作
