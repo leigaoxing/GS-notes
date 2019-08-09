@@ -1,6 +1,6 @@
 # ✏️设计模式
 
-[23中设计模式.md](https://github.com/leigaoxing/GS-notes/blob/master/docs/notes/23中设计模式.md)
+[23中设计模式](https://leigaoxing.github.io/GS-notes/#/notes/23中设计模式)
 
 
 
